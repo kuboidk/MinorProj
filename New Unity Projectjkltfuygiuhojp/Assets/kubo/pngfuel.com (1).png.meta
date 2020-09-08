@@ -1,0 +1,1399 @@
+fileFormatVersion: 2
+guid: 540c684371a4fc0418ac826c9b36a6fb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2452752667449007383
+    second: pngfuel.com (1)_0
+  - first:
+      213: -3590450331280870910
+    second: pngfuel.com (1)_1
+  - first:
+      213: 6199771063596939736
+    second: pngfuel.com (1)_2
+  - first:
+      213: -4184744545821534596
+    second: pngfuel.com (1)_3
+  - first:
+      213: 3431944164662990017
+    second: pngfuel.com (1)_4
+  - first:
+      213: -464460511048572193
+    second: pngfuel.com (1)_5
+  - first:
+      213: 6589570131418097039
+    second: pngfuel.com (1)_6
+  - first:
+      213: 7367525154167350415
+    second: pngfuel.com (1)_7
+  - first:
+      213: 2281774889264982270
+    second: pngfuel.com (1)_8
+  - first:
+      213: 1658544269000686417
+    second: pngfuel.com (1)_9
+  - first:
+      213: -8249988383852733303
+    second: pngfuel.com (1)_10
+  - first:
+      213: 8152325143823021617
+    second: pngfuel.com (1)_11
+  - first:
+      213: -5561430500251761125
+    second: pngfuel.com (1)_12
+  - first:
+      213: -6556157837499609809
+    second: pngfuel.com (1)_13
+  - first:
+      213: -3911423907045667912
+    second: pngfuel.com (1)_14
+  - first:
+      213: -3098557312645097497
+    second: pngfuel.com (1)_15
+  - first:
+      213: 287175474149519010
+    second: pngfuel.com (1)_16
+  - first:
+      213: 4708320171592766387
+    second: pngfuel.com (1)_17
+  - first:
+      213: 1741428636694834571
+    second: pngfuel.com (1)_18
+  - first:
+      213: -7133467714630096777
+    second: pngfuel.com (1)_19
+  - first:
+      213: -6701028282979637103
+    second: pngfuel.com (1)_20
+  - first:
+      213: -7279663764443265520
+    second: pngfuel.com (1)_21
+  - first:
+      213: -4662074099069434172
+    second: pngfuel.com (1)_22
+  - first:
+      213: -5194689515942766242
+    second: pngfuel.com (1)_23
+  - first:
+      213: 1720498349555327459
+    second: pngfuel.com (1)_24
+  - first:
+      213: -1614136874859939980
+    second: pngfuel.com (1)_25
+  - first:
+      213: 1655546335798460085
+    second: pngfuel.com (1)_26
+  - first:
+      213: 5463799714651140234
+    second: pngfuel.com (1)_27
+  - first:
+      213: 1298009909193195538
+    second: pngfuel.com (1)_28
+  - first:
+      213: 4725497871572845444
+    second: pngfuel.com (1)_29
+  - first:
+      213: 8579771505655812696
+    second: pngfuel.com (1)_30
+  - first:
+      213: -5656744513698476770
+    second: pngfuel.com (1)_31
+  - first:
+      213: -222797292363225382
+    second: pngfuel.com (1)_32
+  - first:
+      213: 2407240721240610873
+    second: pngfuel.com (1)_33
+  - first:
+      213: -356850512078918738
+    second: pngfuel.com (1)_34
+  - first:
+      213: -1638928752569528251
+    second: pngfuel.com (1)_35
+  - first:
+      213: -6488073410477076242
+    second: pngfuel.com (1)_36
+  - first:
+      213: -7701283507298916469
+    second: pngfuel.com (1)_37
+  - first:
+      213: -7274068904507957243
+    second: pngfuel.com (1)_38
+  - first:
+      213: 8786565331578813099
+    second: pngfuel.com (1)_39
+  - first:
+      213: -2932141667456678106
+    second: pngfuel.com (1)_40
+  - first:
+      213: 8486140791896793031
+    second: pngfuel.com (1)_41
+  - first:
+      213: 1668984354223246486
+    second: pngfuel.com (1)_42
+  - first:
+      213: -8051688233805452927
+    second: pngfuel.com (1)_43
+  - first:
+      213: 2622530918274892799
+    second: pngfuel.com (1)_44
+  - first:
+      213: -7303139583712733564
+    second: pngfuel.com (1)_45
+  - first:
+      213: 7035020372498900563
+    second: pngfuel.com (1)_46
+  - first:
+      213: 6304792160397731647
+    second: pngfuel.com (1)_47
+  - first:
+      213: -2207228884999523776
+    second: pngfuel.com (1)_48
+  - first:
+      213: -457413956702677135
+    second: pngfuel.com (1)_49
+  - first:
+      213: -6054199460151887289
+    second: pngfuel.com (1)_50
+  - first:
+      213: -1041875524204385981
+    second: pngfuel.com (1)_51
+  - first:
+      213: -7088148715959370058
+    second: pngfuel.com (1)_52
+  - first:
+      213: -8956979840061034657
+    second: pngfuel.com (1)_53
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pngfuel.com (1)_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 568
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d90394e8de90220800000000000000
+      internalID: 2452752667449007383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfuel.com (1)_1
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 568
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 202f15c52782c2ec0800000000000000
+      internalID: -3590450331280870910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfuel.com (1)_2
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 568
+        width: 63
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d9f07e3fe20a0650800000000000000
+      internalID: 6199771063596939736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfuel.com (1)_3
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 568
+        width: 69
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c76dd8ed10dcce5c0800000000000000
+      internalID: -4184744545821534596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfuel.com (1)_4
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 568
+        width: 110
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c456b7d807b0af20800000000000000
+      internalID: 3431944164662990017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfuel.com (1)_5
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 568
+        width: 101
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd2e0c240a7ed89f0800000000000000
+      internalID: -464460511048572193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfuel.com (1)_6
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 568
+        width: 78
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8523b91f1bd27b50800000000000000
+      internalID: 6589570131418097039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfuel.com (1)_7
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 568
+        width: 63
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8466e7c715be3660800000000000000
+      internalID: 7367525154167350415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfuel.com (1)_8
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 568
+        width: 83
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef8ab042c2e7aaf10800000000000000
+      internalID: 2281774889264982270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfuel.com (1)_9
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 455
+        width: 62
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15bbb0ea935540710800000000000000
+      internalID: 1658544269000686417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfuel.com (1)_10
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 455
+        width: 62
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98cdb537647228d80800000000000000
+      internalID: -8249988383852733303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfuel.com (1)_11
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 455
+        width: 61
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1367e038680e22170800000000000000
+      internalID: 8152325143823021617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfuel.com (1)_12
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 455
+        width: 58
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b16887dfc64d1d2b0800000000000000
+      internalID: -5561430500251761125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfuel.com (1)_13
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 455
+        width: 58
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2d417cce29d305a0800000000000000
+      internalID: -6556157837499609809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfuel.com (1)_14
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 455
+        width: 64
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bb829e1ea4d7b9c0800000000000000
+      internalID: -3911423907045667912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfuel.com (1)_15
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 455
+        width: 55
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e7999f7a86bff4d0800000000000000
+      internalID: -3098557312645097497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfuel.com (1)_16
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 455
+        width: 55
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aee2ec72904cf300800000000000000
+      internalID: 287175474149519010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfuel.com (1)_17
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 455
+        width: 54
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b3d7941040575140800000000000000
+      internalID: 4708320171592766387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfuel.com (1)_18
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 341
+        width: 48
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8d63eb5e1cca2810800000000000000
+      internalID: 1741428636694834571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfuel.com (1)_19
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 341
+        width: 47
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77861c488e4d00d90800000000000000
+      internalID: -7133467714630096777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfuel.com (1)_20
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 341
+        width: 47
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 198272bb74a2103a0800000000000000
+      internalID: -6701028282979637103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfuel.com (1)_21
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 341
+        width: 71
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0168314206079fa90800000000000000
+      internalID: -7279663764443265520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfuel.com (1)_22
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 341
+        width: 70
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c6ca60ce4cfc4fb0800000000000000
+      internalID: -4662074099069434172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfuel.com (1)_23
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 341
+        width: 70
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5919cb6861c8e7b0800000000000000
+      internalID: -5194689515942766242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfuel.com (1)_24
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 341
+        width: 83
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e124e1222070e710800000000000000
+      internalID: 1720498349555327459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfuel.com (1)_25
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 341
+        width: 83
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4773d1b701f6999e0800000000000000
+      internalID: -1614136874859939980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfuel.com (1)_26
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 341
+        width: 83
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5be7776fe9ea9f610800000000000000
+      internalID: 1655546335798460085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfuel.com (1)_27
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 227
+        width: 60
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8079ab54e053db40800000000000000
+      internalID: 5463799714651140234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfuel.com (1)_28
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 227
+        width: 60
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 210c560a225730210800000000000000
+      internalID: 1298009909193195538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfuel.com (1)_29
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 227
+        width: 60
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 483c6f50747549140800000000000000
+      internalID: 4725497871572845444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfuel.com (1)_30
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 227
+        width: 99
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85212a01ab8711770800000000000000
+      internalID: 8579771505655812696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfuel.com (1)_31
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 227
+        width: 100
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1dccd3e5d43f71b0800000000000000
+      internalID: -5656744513698476770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfuel.com (1)_32
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 227
+        width: 99
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad665c30b0778ecf0800000000000000
+      internalID: -222797292363225382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfuel.com (1)_33
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 227
+        width: 65
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 938d66e8eac386120800000000000000
+      internalID: 2407240721240610873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfuel.com (1)_34
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 227
+        width: 65
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eabae9599563c0bf0800000000000000
+      internalID: -356850512078918738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfuel.com (1)_35
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 227
+        width: 66
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5405be2abfa5149e0800000000000000
+      internalID: -1638928752569528251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfuel.com (1)_36
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 113
+        width: 69
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee05bd3cb9bb5f5a0800000000000000
+      internalID: -6488073410477076242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfuel.com (1)_37
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 113
+        width: 69
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b87afd8047b8f1590800000000000000
+      internalID: -7701283507298916469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfuel.com (1)_38
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 113
+        width: 69
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 500a61bfed05d0b90800000000000000
+      internalID: -7274068904507957243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfuel.com (1)_39
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 113
+        width: 63
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baa7488ad9620f970800000000000000
+      internalID: 8786565331578813099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfuel.com (1)_40
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 113
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6278f1840b0fe47d0800000000000000
+      internalID: -2932141667456678106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfuel.com (1)_41
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 113
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cfd5f6b614d4c570800000000000000
+      internalID: 8486140791896793031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfuel.com (1)_42
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 113
+        width: 108
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69c49217d6c692710800000000000000
+      internalID: 1668984354223246486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfuel.com (1)_43
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 113
+        width: 108
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18965d50638a24090800000000000000
+      internalID: -8051688233805452927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfuel.com (1)_44
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 113
+        width: 108
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff30144b9f9156420800000000000000
+      internalID: 2622530918274892799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfuel.com (1)_45
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 0
+        width: 76
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48655b70e3906aa90800000000000000
+      internalID: -7303139583712733564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfuel.com (1)_46
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 0
+        width: 76
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 356ee6271c961a160800000000000000
+      internalID: 7035020372498900563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfuel.com (1)_47
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 0
+        width: 76
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f37ac2fc01f1f7750800000000000000
+      internalID: 6304792160397731647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfuel.com (1)_48
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 0
+        width: 80
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0423f9306095e51e0800000000000000
+      internalID: -2207228884999523776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfuel.com (1)_49
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 0
+        width: 80
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1775e6b0e60f6a9f0800000000000000
+      internalID: -457413956702677135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfuel.com (1)_50
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 0
+        width: 80
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74af842eaa92bfba0800000000000000
+      internalID: -6054199460151887289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfuel.com (1)_51
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 0
+        width: 108
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 349af971bb38a81f0800000000000000
+      internalID: -1041875524204385981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfuel.com (1)_52
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 0
+        width: 108
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6beb9162c46d1ad90800000000000000
+      internalID: -7088148715959370058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfuel.com (1)_53
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 0
+        width: 108
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5fa3d4aa4a62b380800000000000000
+      internalID: -8956979840061034657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

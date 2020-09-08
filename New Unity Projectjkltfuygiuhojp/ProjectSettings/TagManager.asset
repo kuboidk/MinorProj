@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - creep
+  - kubo
+  - fordoor
+  - floor
+  - empty
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: back
+    uniqueID: 3633450043
+    locked: 0
+  - name: pill
+    uniqueID: 770151253
+    locked: 0
+  - name: buzzsaw
+    uniqueID: 1618866493
+    locked: 0
+  - name: boss
+    uniqueID: 2921088709
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: lava
+    uniqueID: 1277475447
+    locked: 0
+  - name: stairs
+    uniqueID: 881772125
+    locked: 0
+  - name: door
+    uniqueID: 2328561561
+    locked: 0
+  - name: lavabrick
+    uniqueID: 678692435
+    locked: 0
+  - name: lavaboundry
+    uniqueID: 1170594873
+    locked: 0
+  - name: kubo
+    uniqueID: 1851163067
+    locked: 0
+  - name: barrl
+    uniqueID: 940933001
+    locked: 0
+  - name: mid barrl
+    uniqueID: 945364893
+    locked: 0
+  - name: top barrl
+    uniqueID: 2296170725
+    locked: 0
+  - name: koin
+    uniqueID: 1549251333
+    locked: 0

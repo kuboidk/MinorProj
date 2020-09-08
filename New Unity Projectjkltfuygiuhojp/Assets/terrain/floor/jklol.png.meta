@@ -1,0 +1,3895 @@
+fileFormatVersion: 2
+guid: 2778c4e9c5294e84faf44b8d127aa792
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5562493144488681891
+    second: jklol_0
+  - first:
+      213: -2810418936793968691
+    second: jklol_1
+  - first:
+      213: -5620778655381252863
+    second: jklol_2
+  - first:
+      213: -8715088602575591110
+    second: jklol_3
+  - first:
+      213: 150246894604958587
+    second: jklol_4
+  - first:
+      213: -4136654156418579204
+    second: jklol_5
+  - first:
+      213: -1497264046124798896
+    second: jklol_6
+  - first:
+      213: -7542804653515557141
+    second: jklol_7
+  - first:
+      213: 3004782242902176259
+    second: jklol_8
+  - first:
+      213: -5563919924070972715
+    second: jklol_9
+  - first:
+      213: 1042365690456267974
+    second: jklol_10
+  - first:
+      213: 7531396207671995138
+    second: jklol_11
+  - first:
+      213: 4417483268891432425
+    second: jklol_12
+  - first:
+      213: -7588397600553087586
+    second: jklol_13
+  - first:
+      213: -2265758471329772198
+    second: jklol_14
+  - first:
+      213: -8032383437176767684
+    second: jklol_15
+  - first:
+      213: -4370901277982905837
+    second: jklol_16
+  - first:
+      213: 5965914135481718957
+    second: jklol_17
+  - first:
+      213: -4664782347095806076
+    second: jklol_18
+  - first:
+      213: -7986183002096327881
+    second: jklol_19
+  - first:
+      213: 1376209710420730564
+    second: jklol_20
+  - first:
+      213: 8285693184836824800
+    second: jklol_21
+  - first:
+      213: -6591613290321925495
+    second: jklol_22
+  - first:
+      213: -653748761816551095
+    second: jklol_23
+  - first:
+      213: -931393210731461125
+    second: jklol_24
+  - first:
+      213: -3059961372458761519
+    second: jklol_25
+  - first:
+      213: 9137483565449773697
+    second: jklol_26
+  - first:
+      213: -3203029114207985578
+    second: jklol_27
+  - first:
+      213: 835150239955794763
+    second: jklol_28
+  - first:
+      213: -6975298877459699165
+    second: jklol_29
+  - first:
+      213: -1386757576921807127
+    second: jklol_30
+  - first:
+      213: -3367647836672117467
+    second: jklol_31
+  - first:
+      213: 6975790062221523342
+    second: jklol_32
+  - first:
+      213: 8272095319581791495
+    second: jklol_33
+  - first:
+      213: -2798768482897545025
+    second: jklol_34
+  - first:
+      213: 7416410904962140470
+    second: jklol_35
+  - first:
+      213: 4459398336630143942
+    second: jklol_36
+  - first:
+      213: -3422354393270090043
+    second: jklol_37
+  - first:
+      213: -4550458427261511629
+    second: jklol_38
+  - first:
+      213: -3151061679992432891
+    second: jklol_39
+  - first:
+      213: -5645094404229755278
+    second: jklol_40
+  - first:
+      213: -7277148821057612752
+    second: jklol_41
+  - first:
+      213: -8464094320074053616
+    second: jklol_42
+  - first:
+      213: -3080698972502991650
+    second: jklol_43
+  - first:
+      213: 119954460241831048
+    second: jklol_44
+  - first:
+      213: -8201025088794731580
+    second: jklol_45
+  - first:
+      213: -3346065182271804221
+    second: jklol_46
+  - first:
+      213: 8646382985742099197
+    second: jklol_47
+  - first:
+      213: 4887716104267227387
+    second: jklol_48
+  - first:
+      213: -5046820663558568750
+    second: jklol_49
+  - first:
+      213: -3096321215564013021
+    second: jklol_50
+  - first:
+      213: -912882164275516180
+    second: jklol_51
+  - first:
+      213: 6913541315739591948
+    second: jklol_52
+  - first:
+      213: 7611478929174827965
+    second: jklol_53
+  - first:
+      213: -4195039143388135483
+    second: jklol_54
+  - first:
+      213: -4825018674494812304
+    second: jklol_55
+  - first:
+      213: 3764282417790296142
+    second: jklol_56
+  - first:
+      213: 8368618510174224025
+    second: jklol_57
+  - first:
+      213: 4938846219036040683
+    second: jklol_58
+  - first:
+      213: -4154948457403351997
+    second: jklol_59
+  - first:
+      213: -304361097162946795
+    second: jklol_60
+  - first:
+      213: 5363845916836420874
+    second: jklol_61
+  - first:
+      213: 5357811678889325939
+    second: jklol_62
+  - first:
+      213: 6601204368391460870
+    second: jklol_63
+  - first:
+      213: 4851734237330533326
+    second: jklol_64
+  - first:
+      213: -5421205604662215601
+    second: jklol_65
+  - first:
+      213: -8975351236700525959
+    second: jklol_66
+  - first:
+      213: -7558903102893002691
+    second: jklol_67
+  - first:
+      213: 4958810366536339253
+    second: jklol_68
+  - first:
+      213: 3272250762413599926
+    second: jklol_69
+  - first:
+      213: -7950652254196002389
+    second: jklol_70
+  - first:
+      213: -5924377763768743727
+    second: jklol_71
+  - first:
+      213: -5714514221709679643
+    second: jklol_72
+  - first:
+      213: -6732573542531726845
+    second: jklol_73
+  - first:
+      213: 7668803044041252635
+    second: jklol_74
+  - first:
+      213: 4440588387617546970
+    second: jklol_75
+  - first:
+      213: -4721358072274557387
+    second: jklol_76
+  - first:
+      213: -9146593698691015165
+    second: jklol_77
+  - first:
+      213: -4864323104960074235
+    second: jklol_78
+  - first:
+      213: -3329726651955356759
+    second: jklol_79
+  - first:
+      213: 8882495595466528433
+    second: jklol_80
+  - first:
+      213: 4558720703082684894
+    second: jklol_81
+  - first:
+      213: -4159516426754991379
+    second: jklol_82
+  - first:
+      213: 560981606322237509
+    second: jklol_83
+  - first:
+      213: -3785264191928357227
+    second: jklol_84
+  - first:
+      213: 8020179789695301236
+    second: jklol_85
+  - first:
+      213: 6443339897672288421
+    second: jklol_86
+  - first:
+      213: -7381393559501246194
+    second: jklol_87
+  - first:
+      213: -646038766257689589
+    second: jklol_88
+  - first:
+      213: 1763068893081660827
+    second: jklol_89
+  - first:
+      213: 6739825965167929905
+    second: jklol_90
+  - first:
+      213: -643700159084551677
+    second: jklol_91
+  - first:
+      213: 7939186846825205848
+    second: jklol_92
+  - first:
+      213: -8360881741962527295
+    second: jklol_93
+  - first:
+      213: -6690770970523760687
+    second: jklol_94
+  - first:
+      213: 3884295156021993611
+    second: jklol_95
+  - first:
+      213: -3716247936587952104
+    second: jklol_96
+  - first:
+      213: 1008632557218764143
+    second: jklol_97
+  - first:
+      213: -627972187208663990
+    second: jklol_98
+  - first:
+      213: -5218092340596437477
+    second: jklol_99
+  - first:
+      213: -7000449122947531116
+    second: jklol_100
+  - first:
+      213: -3641650945815676630
+    second: jklol_101
+  - first:
+      213: -3585225095255776619
+    second: jklol_102
+  - first:
+      213: 2398591513942466960
+    second: jklol_103
+  - first:
+      213: 2677997609423005988
+    second: jklol_104
+  - first:
+      213: -5701225858117471338
+    second: jklol_105
+  - first:
+      213: -7280107612717956948
+    second: jklol_106
+  - first:
+      213: 4585096348082097394
+    second: jklol_107
+  - first:
+      213: -10318826031872102
+    second: jklol_108
+  - first:
+      213: 571617833819188277
+    second: jklol_109
+  - first:
+      213: 2599095215827989731
+    second: jklol_110
+  - first:
+      213: 317439878999433328
+    second: jklol_111
+  - first:
+      213: 3426866586048076758
+    second: jklol_112
+  - first:
+      213: -1252559625427233023
+    second: jklol_113
+  - first:
+      213: -117248353351644189
+    second: jklol_114
+  - first:
+      213: 3000275427767584803
+    second: jklol_115
+  - first:
+      213: -6496286995285551378
+    second: jklol_116
+  - first:
+      213: 7031047049354977906
+    second: jklol_117
+  - first:
+      213: 307256381534205528
+    second: jklol_118
+  - first:
+      213: 2124046381794464044
+    second: jklol_119
+  - first:
+      213: 4480439139834161002
+    second: jklol_120
+  - first:
+      213: -8613846364629302880
+    second: jklol_121
+  - first:
+      213: 8874550365474174848
+    second: jklol_122
+  - first:
+      213: 4975389944057140820
+    second: jklol_123
+  - first:
+      213: 8984384111555317090
+    second: jklol_124
+  - first:
+      213: 4163138986379546516
+    second: jklol_125
+  - first:
+      213: -365725599583345558
+    second: jklol_126
+  - first:
+      213: 2153548799883805948
+    second: jklol_127
+  - first:
+      213: -3321193271916013844
+    second: jklol_128
+  - first:
+      213: 5670687357707989985
+    second: jklol_129
+  - first:
+      213: -5306381548928488902
+    second: jklol_130
+  - first:
+      213: -2006851003003471392
+    second: jklol_131
+  - first:
+      213: 6595706179037618807
+    second: jklol_132
+  - first:
+      213: -2320317367939165627
+    second: jklol_133
+  - first:
+      213: 8114850625069347466
+    second: jklol_134
+  - first:
+      213: -8175562656046540575
+    second: jklol_135
+  - first:
+      213: -2200131861620486614
+    second: jklol_136
+  - first:
+      213: -7281477454642690259
+    second: jklol_137
+  - first:
+      213: -6102511665611362143
+    second: jklol_138
+  - first:
+      213: -7796626572854177927
+    second: jklol_139
+  - first:
+      213: -4961873753410338936
+    second: jklol_140
+  - first:
+      213: -7043995658312192498
+    second: jklol_141
+  - first:
+      213: -634210333787482138
+    second: jklol_142
+  - first:
+      213: 3599955251954679907
+    second: jklol_143
+  - first:
+      213: 7445773691907267810
+    second: jklol_144
+  - first:
+      213: 9055253410525375118
+    second: jklol_145
+  - first:
+      213: 981791928297483122
+    second: jklol_146
+  - first:
+      213: -1198237992618143991
+    second: jklol_147
+  - first:
+      213: -7432137137921991925
+    second: jklol_148
+  - first:
+      213: 1778841919904661066
+    second: jklol_149
+  - first:
+      213: -3477477152350709744
+    second: jklol_150
+  - first:
+      213: 3036421843038435865
+    second: jklol_151
+  - first:
+      213: 6881952117689805309
+    second: jklol_152
+  - first:
+      213: -7563126312416361664
+    second: jklol_153
+  - first:
+      213: -6840141870974650699
+    second: jklol_154
+  - first:
+      213: -1730282714302868561
+    second: jklol_155
+  - first:
+      213: 3130467023105917942
+    second: jklol_156
+  - first:
+      213: 7171165538410435241
+    second: jklol_157
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: jklol_0
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 947
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5ed439d4fd0ec2b0800000000000000
+      internalID: -5562493144488681891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_1
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 947
+        width: 46
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcf4d520ed26ff8d0800000000000000
+      internalID: -2810418936793968691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_2
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 947
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10517e4d79bfef1b0800000000000000
+      internalID: -5620778655381252863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_3
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 947
+        width: 46
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a392d692719cd0780800000000000000
+      internalID: -8715088602575591110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_4
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 947
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7bb88d21c8c51200800000000000000
+      internalID: 150246894604958587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_5
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 900
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf4070036f6a796c0800000000000000
+      internalID: -4136654156418579204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_6
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 900
+        width: 24
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05c64cb6846a83be0800000000000000
+      internalID: -1497264046124798896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_7
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 900
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be6ba019123925790800000000000000
+      internalID: -7542804653515557141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_8
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 900
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 302f597a78123b920800000000000000
+      internalID: 3004782242902176259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_9
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 887
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d20807de4cf8c2b0800000000000000
+      internalID: -5563919924070972715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_10
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 887
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cc53b1a21a377e00800000000000000
+      internalID: 1042365690456267974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_11
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 852
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20b6305a2f4e48860800000000000000
+      internalID: 7531396207671995138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_12
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 852
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e55183d0ad0e4d30800000000000000
+      internalID: 4417483268891432425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_13
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 852
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9d4b9c569890b690800000000000000
+      internalID: -7588397600553087586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_14
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 852
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5d8e81cca86e80e0800000000000000
+      internalID: -2265758471329772198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_15
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 840
+        width: 46
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3bf85f32dd378090800000000000000
+      internalID: -8032383437176767684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_16
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 840
+        width: 46
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31a278912707753c0800000000000000
+      internalID: -4370901277982905837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_17
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 840
+        width: 46
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da89ed52c4f2bc250800000000000000
+      internalID: 5965914135481718957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_18
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 840
+        width: 46
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48f67de9b2d534fb0800000000000000
+      internalID: -4664782347095806076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_19
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 840
+        width: 46
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73329c84fd06b2190800000000000000
+      internalID: -7986183002096327881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_20
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 840
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c2221ea077491310800000000000000
+      internalID: 1376209710420730564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_21
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 840
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eee2185d02bcf270800000000000000
+      internalID: 8285693184836824800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_22
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 840
+        width: 14
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98a2e95e2a2e584a0800000000000000
+      internalID: -6591613290321925495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_23
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 840
+        width: 14
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 941b29ff6fa6de6f0800000000000000
+      internalID: -653748761816551095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_24
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 840
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf504204fc60313f0800000000000000
+      internalID: -931393210731461125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_25
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 805
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d2cd281855d885d0800000000000000
+      internalID: -3059961372458761519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_26
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 789
+        width: 45
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1828a9be3ecdece70800000000000000
+      internalID: 9137483565449773697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_27
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 784
+        width: 46
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6502662bdfd8c83d0800000000000000
+      internalID: -3203029114207985578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_28
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 789
+        width: 46
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4bb5aae7bc079b00800000000000000
+      internalID: 835150239955794763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_29
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 805
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32a65dea0a2c23f90800000000000000
+      internalID: -6975298877459699165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_30
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 805
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e68ef5c45f31cce0800000000000000
+      internalID: -1386757576921807127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_31
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 805
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 525bb869226b341d0800000000000000
+      internalID: -3367647836672117467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_32
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 792
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e89f96e2a1cfec060800000000000000
+      internalID: 6975790062221523342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_33
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 792
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70518df9dd26cc270800000000000000
+      internalID: 8272095319581791495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_34
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 792
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb83550b4e6c829d0800000000000000
+      internalID: -2798768482897545025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_35
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 792
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6390a9a9c626ce660800000000000000
+      internalID: 7416410904962140470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_36
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 728
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cbbec60927f2ed30800000000000000
+      internalID: 4459398336630143942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_37
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 728
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c683adcfca5180d0800000000000000
+      internalID: -3422354393270090043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_38
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 728
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33815e57b2689d0c0800000000000000
+      internalID: -4550458427261511629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_39
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 728
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50794bad81e2544d0800000000000000
+      internalID: -3151061679992432891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_40
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 711
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27e07506c8898a1b0800000000000000
+      internalID: -5645094404229755278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_41
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 711
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 034553704bf520b90800000000000000
+      internalID: -7277148821057612752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_42
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 711
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 018a5928f0f798a80800000000000000
+      internalID: -8464094320074053616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_43
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 711
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edc5c045b982f35d0800000000000000
+      internalID: -3080698972502991650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_44
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 709
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88420ff22f92aa100800000000000000
+      internalID: 119954460241831048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_45
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 708
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cbd254f12b103e80800000000000000
+      internalID: -8201025088794731580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_46
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 711
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cce267e1736091d0800000000000000
+      internalID: -3346065182271804221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_47
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 711
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df2a329d38f1ef770800000000000000
+      internalID: 8646382985742099197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_48
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 711
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf0edcd86e7a4d340800000000000000
+      internalID: 4887716104267227387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_49
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 711
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d48d7f785716f9b0800000000000000
+      internalID: -5046820663558568750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_50
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 711
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3222dcb6248a705d0800000000000000
+      internalID: -3096321215564013021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_51
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 711
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cec619c128ac453f0800000000000000
+      internalID: -912882164275516180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_52
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 711
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0525a87235d1ff50800000000000000
+      internalID: 6913541315739591948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_53
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 711
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db316dc32c761a960800000000000000
+      internalID: 7611478929174827965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_54
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 711
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cfbd77102a38c5c0800000000000000
+      internalID: -4195039143388135483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_55
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 711
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07f4c1064171a0db0800000000000000
+      internalID: -4825018674494812304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_56
+      rect:
+        serializedVersion: 2
+        x: 1466
+        y: 711
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e40a3aa3aea6d3430800000000000000
+      internalID: 3764282417790296142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_57
+      rect:
+        serializedVersion: 2
+        x: 1514
+        y: 711
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99e71b7323e432470800000000000000
+      internalID: 8368618510174224025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_58
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 681
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bed9ce5187e4a8440800000000000000
+      internalID: 4938846219036040683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_59
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 681
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34c7a605468a656c0800000000000000
+      internalID: -4154948457403351997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_60
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 681
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5178728d131b6cbf0800000000000000
+      internalID: -304361097162946795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_61
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 681
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0dd6f64175307a40800000000000000
+      internalID: 5363845916836420874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_62
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 659
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37533a5c555ca5a40800000000000000
+      internalID: 5357811678889325939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_63
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 660
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 608dabbf5603c9b50800000000000000
+      internalID: 6601204368391460870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_64
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 661
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecbefa05592d45340800000000000000
+      internalID: 4851734237330533326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_65
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 661
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4c70cfa93204c4b0800000000000000
+      internalID: -5421205604662215601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_66
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 661
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97a2a1a8a95217380800000000000000
+      internalID: -8975351236700525959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_67
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 633
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d30f67c3da1691790800000000000000
+      internalID: -7558903102893002691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_68
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 633
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53f4ce561cb31d440800000000000000
+      internalID: 4958810366536339253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_69
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 633
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bce9a53bbe596d20800000000000000
+      internalID: 3272250762413599926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_70
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 633
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba11dff26eb99a190800000000000000
+      internalID: -7950652254196002389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_71
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 610
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d8475300d168cda0800000000000000
+      internalID: -5924377763768743727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_72
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 610
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e3a3179797f1b0b0800000000000000
+      internalID: -5714514221709679643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_73
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 610
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3020435a8081192a0800000000000000
+      internalID: -6732573542531726845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_74
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 610
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1f538cccbf0d6a60800000000000000
+      internalID: 7668803044041252635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_75
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 613
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad22bad7c9320ad30800000000000000
+      internalID: 4440588387617546970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_76
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 613
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 536e6ac19dd5a7eb0800000000000000
+      internalID: -4721358072274557387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_77
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 630
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30e12b4ed75c01180800000000000000
+      internalID: -9146593698691015165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_78
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 630
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50e212888e37e7cb0800000000000000
+      internalID: -4864323104960074235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_79
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 630
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9abdc0f604f6ac1d0800000000000000
+      internalID: -3329726651955356759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_80
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 630
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b611cebea6f44b70800000000000000
+      internalID: 8882495595466528433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_81
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 630
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed166798354d34f30800000000000000
+      internalID: 4558720703082684894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_82
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 630
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deaddd119dd6646c0800000000000000
+      internalID: -4159516426754991379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_83
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 568
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5407d5a7cc109c700800000000000000
+      internalID: 560981606322237509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_84
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 568
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59eaa1bc54a087bc0800000000000000
+      internalID: -3785264191928357227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_85
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 556
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4763e87a6076d4f60800000000000000
+      internalID: 8020179789695301236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_86
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 556
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a8cbd7af775b6950800000000000000
+      internalID: 6443339897672288421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_87
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 556
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e01729a7aa5009990800000000000000
+      internalID: -7381393559501246194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_88
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 556
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0c241a3a2fc807f0800000000000000
+      internalID: -646038766257689589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_89
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 564
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9d6cae21dda77810800000000000000
+      internalID: 1763068893081660827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_90
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 564
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13ae9c5910ca88d50800000000000000
+      internalID: 6739825965167929905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_91
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 580
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30227e3ad1e1117f0800000000000000
+      internalID: -643700159084551677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_92
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 580
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8505872af58ad2e60800000000000000
+      internalID: 7939186846825205848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_93
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 580
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cd36418a5e28fb80800000000000000
+      internalID: -8360881741962527295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_94
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 580
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d78f64604b9523a0800000000000000
+      internalID: -6690770970523760687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_95
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 580
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8026715dd9c7e530800000000000000
+      internalID: 3884295156021993611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_96
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 580
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8109562f03c3d6cc0800000000000000
+      internalID: -3716247936587952104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_97
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 519
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f651be187f16ffd00800000000000000
+      internalID: 1008632557218764143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_98
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 519
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4c3a947f9ef847f0800000000000000
+      internalID: -627972187208663990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_99
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 507
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1e0091b9ac9597b0800000000000000
+      internalID: -5218092340596437477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_100
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 505
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e7486dc9869de90800000000000000
+      internalID: -7000449122947531116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_101
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 515
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a29f0b252c1467dc0800000000000000
+      internalID: -3641650945815676630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_102
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 515
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 592a67d65c8be3ec0800000000000000
+      internalID: -3585225095255776619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_103
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 522
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 091aecd0642894120800000000000000
+      internalID: 2398591513942466960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_104
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 522
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 429e00b13a82a2520800000000000000
+      internalID: 2677997609423005988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_105
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 462
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 693f2a6d94d21e0b0800000000000000
+      internalID: -5701225858117471338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_106
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 462
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca04459a2bcd7fa90800000000000000
+      internalID: -7280107612717956948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_107
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 473
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fccf50f5d881af30800000000000000
+      internalID: 4585096348082097394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_108
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 473
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a970fd715175bdff0800000000000000
+      internalID: -10318826031872102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_109
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 443
+        width: 46
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53c221c246bcee700800000000000000
+      internalID: 571617833819188277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_110
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 468
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e438d40457d11420800000000000000
+      internalID: 2599095215827989731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_111
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 468
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 070ed4953e5c76400800000000000000
+      internalID: 317439878999433328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_112
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 472
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6db1d02f00dae8f20800000000000000
+      internalID: 3426866586048076758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_113
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 472
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 107d96238a30e9ee0800000000000000
+      internalID: -1252559625427233023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_114
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 413
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ebc9fb6e337f5ef0800000000000000
+      internalID: -117248353351644189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_115
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 413
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3288b6cfa9e13a920800000000000000
+      internalID: 3000275427767584803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_116
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 448
+        width: 46
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee6d307856d88d5a0800000000000000
+      internalID: -6496286995285551378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_117
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 448
+        width: 46
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 272acdf0a0c439160800000000000000
+      internalID: 7031047049354977906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_118
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 420
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85671541d08934400800000000000000
+      internalID: 307256381534205528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_119
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 420
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2110593ee02a7d10800000000000000
+      internalID: 2124046381794464044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_120
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 423
+        width: 46
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a676297c8a7bd2e30800000000000000
+      internalID: 4480439139834161002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_121
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 423
+        width: 46
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a10b769e58757880800000000000000
+      internalID: -8613846364629302880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_122
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 412
+        width: 46
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 087b66bb98cb82b70800000000000000
+      internalID: 8874550365474174848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_123
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 373
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 456939a1bc22c0540800000000000000
+      internalID: 4975389944057140820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_124
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 373
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26d0be68fb1feac70800000000000000
+      internalID: 8984384111555317090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_125
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 307
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49f8bb1d9d076c930800000000000000
+      internalID: 4163138986379546516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_126
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 307
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a64619f318eaceaf0800000000000000
+      internalID: -365725599583345558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_127
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 307
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf40b873931f2ed10800000000000000
+      internalID: 2153548799883805948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_128
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 307
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce6570dc050c8e1d0800000000000000
+      internalID: -3321193271916013844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_129
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 307
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e3bb747b1452be40800000000000000
+      internalID: 5670687357707989985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_130
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 307
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3a2e6d7812fb56b0800000000000000
+      internalID: -5306381548928488902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_131
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 307
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e977d045ab3624e0800000000000000
+      internalID: -2006851003003471392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_132
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 307
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 772e26403d7a88b50800000000000000
+      internalID: 6595706179037618807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_133
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 325
+        width: 46
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54211ddb5a39ccfd0800000000000000
+      internalID: -2320317367939165627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_134
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 307
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a827d9036adbd9070800000000000000
+      internalID: 8114850625069347466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_135
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 259
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e8956f84119a8e80800000000000000
+      internalID: -8175562656046540575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_136
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 259
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2e87198abf8771e0800000000000000
+      internalID: -2200131861620486614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_137
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 259
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d27c10c75def2fa90800000000000000
+      internalID: -7281477454642690259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_138
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 259
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a0be8df8f58f4ba0800000000000000
+      internalID: -6102511665611362143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_139
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 259
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97fc7a6b071dcc390800000000000000
+      internalID: -7796626572854177927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_140
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 259
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88f74a34c12e32bb0800000000000000
+      internalID: -4961873753410338936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_141
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 259
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0e68eaf443be3e90800000000000000
+      internalID: -7043995658312192498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_142
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 259
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e717b5cf05d237f0800000000000000
+      internalID: -634210333787482138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_143
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 259
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3608f007a3c95f130800000000000000
+      internalID: 3599955251954679907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_144
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 212
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ecd41039b3b45760800000000000000
+      internalID: 7445773691907267810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_145
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 212
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8a62850009baad70800000000000000
+      internalID: 9055253410525375118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_146
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 212
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27b64899e8600ad00800000000000000
+      internalID: 981791928297483122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_147
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 212
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90f4e9de4e00f5fe0800000000000000
+      internalID: -1198237992618143991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_148
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 212
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0bdb2476aebbd890800000000000000
+      internalID: -7432137137921991925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_149
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 212
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4ebd7b2d47bfa810800000000000000
+      internalID: 1778841919904661066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_150
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 212
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 018599354f48dbfc0800000000000000
+      internalID: -3477477152350709744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_151
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 212
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91afa8e1499832a20800000000000000
+      internalID: 3036421843038435865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_152
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 212
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df9e5282dfa918f50800000000000000
+      internalID: 6881952117689805309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_153
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 164
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0434305a0b06a0790800000000000000
+      internalID: -7563126312416361664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_154
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 164
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b6b74f753fe211a0800000000000000
+      internalID: -6840141870974650699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_155
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 164
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa39afce90dccf7e0800000000000000
+      internalID: -1730282714302868561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_156
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 164
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f38d4deb27a17b20800000000000000
+      internalID: 3130467023105917942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jklol_157
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 164
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a21a7e0019158360800000000000000
+      internalID: 7171165538410435241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

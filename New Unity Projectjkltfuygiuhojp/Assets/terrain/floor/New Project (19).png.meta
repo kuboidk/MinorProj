@@ -1,0 +1,3079 @@
+fileFormatVersion: 2
+guid: 2a32af3e0bd34b140824946151609505
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5435141606625464636
+    second: New Project (19)_0
+  - first:
+      213: 9102815314845476699
+    second: New Project (19)_1
+  - first:
+      213: 5933471661729021970
+    second: New Project (19)_2
+  - first:
+      213: 1815153031057318570
+    second: New Project (19)_3
+  - first:
+      213: -8020883600963380731
+    second: New Project (19)_4
+  - first:
+      213: -9072608708198600505
+    second: New Project (19)_5
+  - first:
+      213: -7396767145093065125
+    second: New Project (19)_6
+  - first:
+      213: 278598343076932952
+    second: New Project (19)_7
+  - first:
+      213: 6017092372848311046
+    second: New Project (19)_8
+  - first:
+      213: -2414489141156415485
+    second: New Project (19)_9
+  - first:
+      213: 1895882317047859913
+    second: New Project (19)_10
+  - first:
+      213: 8925555844193802970
+    second: New Project (19)_11
+  - first:
+      213: -7246414919951656424
+    second: New Project (19)_12
+  - first:
+      213: -7967445685988346307
+    second: New Project (19)_13
+  - first:
+      213: -6322510642718271646
+    second: New Project (19)_14
+  - first:
+      213: -633829688450588714
+    second: New Project (19)_15
+  - first:
+      213: 4895954222846280012
+    second: New Project (19)_16
+  - first:
+      213: -6117273544880744208
+    second: New Project (19)_17
+  - first:
+      213: 3660924210441923492
+    second: New Project (19)_18
+  - first:
+      213: -8507262559682996829
+    second: New Project (19)_19
+  - first:
+      213: -2936267206809412110
+    second: New Project (19)_20
+  - first:
+      213: 6074490148687067837
+    second: New Project (19)_21
+  - first:
+      213: 3488196659948133502
+    second: New Project (19)_22
+  - first:
+      213: -1883560764740389706
+    second: New Project (19)_23
+  - first:
+      213: 2872182739679847430
+    second: New Project (19)_24
+  - first:
+      213: 4913400171932942287
+    second: New Project (19)_25
+  - first:
+      213: -3200078785252523396
+    second: New Project (19)_26
+  - first:
+      213: -7867221234591391414
+    second: New Project (19)_27
+  - first:
+      213: -4018489587669526433
+    second: New Project (19)_28
+  - first:
+      213: 4594631939211028856
+    second: New Project (19)_29
+  - first:
+      213: -699658430573644834
+    second: New Project (19)_30
+  - first:
+      213: 2183409148590069623
+    second: New Project (19)_31
+  - first:
+      213: 5428961500821278834
+    second: New Project (19)_32
+  - first:
+      213: 6595482618349099898
+    second: New Project (19)_33
+  - first:
+      213: 4727550506938528304
+    second: New Project (19)_34
+  - first:
+      213: -5497155468245394460
+    second: New Project (19)_35
+  - first:
+      213: 6169789825363558804
+    second: New Project (19)_36
+  - first:
+      213: -845874174126734682
+    second: New Project (19)_37
+  - first:
+      213: -2842191127541224979
+    second: New Project (19)_38
+  - first:
+      213: -5888755864233119050
+    second: New Project (19)_39
+  - first:
+      213: 5603624995412220352
+    second: New Project (19)_40
+  - first:
+      213: -3699639534620639812
+    second: New Project (19)_41
+  - first:
+      213: -5801558497496599338
+    second: New Project (19)_42
+  - first:
+      213: -4342453389017709449
+    second: New Project (19)_43
+  - first:
+      213: 2944600837483952756
+    second: New Project (19)_44
+  - first:
+      213: 908745344059819384
+    second: New Project (19)_45
+  - first:
+      213: -4178275730084985910
+    second: New Project (19)_46
+  - first:
+      213: -2936734073615097320
+    second: New Project (19)_47
+  - first:
+      213: 9104400790205019509
+    second: New Project (19)_48
+  - first:
+      213: -2385931694891312492
+    second: New Project (19)_49
+  - first:
+      213: -4186325272617634339
+    second: New Project (19)_50
+  - first:
+      213: -1933957290735771606
+    second: New Project (19)_51
+  - first:
+      213: -5676024438116816964
+    second: New Project (19)_52
+  - first:
+      213: -1998263744334505552
+    second: New Project (19)_53
+  - first:
+      213: -1764795388588243228
+    second: New Project (19)_54
+  - first:
+      213: 4531352271226542986
+    second: New Project (19)_55
+  - first:
+      213: -647977446515797584
+    second: New Project (19)_56
+  - first:
+      213: 4460823909548211624
+    second: New Project (19)_57
+  - first:
+      213: -8714274820765514004
+    second: New Project (19)_58
+  - first:
+      213: 5798139240899903958
+    second: New Project (19)_59
+  - first:
+      213: 6422732563644565142
+    second: New Project (19)_60
+  - first:
+      213: 728039506500509561
+    second: New Project (19)_61
+  - first:
+      213: 764451173267057600
+    second: New Project (19)_62
+  - first:
+      213: -6739581073386270695
+    second: New Project (19)_63
+  - first:
+      213: -7375233766194835000
+    second: New Project (19)_64
+  - first:
+      213: -7465829564644260706
+    second: New Project (19)_65
+  - first:
+      213: -926202605793022321
+    second: New Project (19)_66
+  - first:
+      213: 3633091081654466967
+    second: New Project (19)_67
+  - first:
+      213: 659811475009264413
+    second: New Project (19)_68
+  - first:
+      213: -4382111494900405010
+    second: New Project (19)_69
+  - first:
+      213: 7516244036011032830
+    second: New Project (19)_70
+  - first:
+      213: -8966702194917878994
+    second: New Project (19)_71
+  - first:
+      213: -6074241746170020585
+    second: New Project (19)_72
+  - first:
+      213: 7720683059305167860
+    second: New Project (19)_73
+  - first:
+      213: -5481524106714882119
+    second: New Project (19)_74
+  - first:
+      213: 3986228134225969583
+    second: New Project (19)_75
+  - first:
+      213: -4707046916168320519
+    second: New Project (19)_76
+  - first:
+      213: 2718271472031983735
+    second: New Project (19)_77
+  - first:
+      213: -3774457629284037680
+    second: New Project (19)_78
+  - first:
+      213: -970622946027529867
+    second: New Project (19)_79
+  - first:
+      213: 1137022279996821224
+    second: New Project (19)_80
+  - first:
+      213: -3829595670457973945
+    second: New Project (19)_81
+  - first:
+      213: 6167903631783615713
+    second: New Project (19)_82
+  - first:
+      213: -8601921980106703278
+    second: New Project (19)_83
+  - first:
+      213: -3816425669082390062
+    second: New Project (19)_84
+  - first:
+      213: 889405197367645646
+    second: New Project (19)_85
+  - first:
+      213: 5266990547085979352
+    second: New Project (19)_86
+  - first:
+      213: -4060983669587222061
+    second: New Project (19)_87
+  - first:
+      213: 13415459522234121
+    second: New Project (19)_88
+  - first:
+      213: 7672702056893741453
+    second: New Project (19)_89
+  - first:
+      213: -6826550892795170048
+    second: New Project (19)_90
+  - first:
+      213: -2856089667908504680
+    second: New Project (19)_91
+  - first:
+      213: -8121303799725224066
+    second: New Project (19)_92
+  - first:
+      213: 1120146849335262101
+    second: New Project (19)_93
+  - first:
+      213: -1898061853237797097
+    second: New Project (19)_94
+  - first:
+      213: -23996017749206286
+    second: New Project (19)_95
+  - first:
+      213: -2046593351753490941
+    second: New Project (19)_96
+  - first:
+      213: -8776427642197691929
+    second: New Project (19)_97
+  - first:
+      213: -7319594440357959486
+    second: New Project (19)_98
+  - first:
+      213: 2473324212072601713
+    second: New Project (19)_99
+  - first:
+      213: 2651506288856793995
+    second: New Project (19)_100
+  - first:
+      213: 8610570318512222327
+    second: New Project (19)_101
+  - first:
+      213: 9006296654455329912
+    second: New Project (19)_102
+  - first:
+      213: -4617028436228742462
+    second: New Project (19)_103
+  - first:
+      213: 4197036181171592918
+    second: New Project (19)_104
+  - first:
+      213: -8271884397543518402
+    second: New Project (19)_105
+  - first:
+      213: -8537433037666889998
+    second: New Project (19)_106
+  - first:
+      213: 545284241521929296
+    second: New Project (19)_107
+  - first:
+      213: 6094013090306004898
+    second: New Project (19)_108
+  - first:
+      213: 8770661168608483336
+    second: New Project (19)_109
+  - first:
+      213: -4489914758749965329
+    second: New Project (19)_110
+  - first:
+      213: -1564715386137849025
+    second: New Project (19)_111
+  - first:
+      213: -5792141736728528374
+    second: New Project (19)_112
+  - first:
+      213: 5833696575460361777
+    second: New Project (19)_113
+  - first:
+      213: 7870240494506787885
+    second: New Project (19)_114
+  - first:
+      213: 1842231639493291542
+    second: New Project (19)_115
+  - first:
+      213: 8605820827235992875
+    second: New Project (19)_116
+  - first:
+      213: 5847692082972725002
+    second: New Project (19)_117
+  - first:
+      213: 1459443215884214168
+    second: New Project (19)_118
+  - first:
+      213: 7206421104897625960
+    second: New Project (19)_119
+  - first:
+      213: 9112807743356216527
+    second: New Project (19)_120
+  - first:
+      213: 1639672165175098004
+    second: New Project (19)_121
+  - first:
+      213: -9190750453214762065
+    second: New Project (19)_122
+  - first:
+      213: 2790961792075027387
+    second: New Project (19)_123
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: New Project (19)_0
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 632
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cea421618f7294b0800000000000000
+      internalID: -5435141606625464636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project (19)_1
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 631
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b57a951dc42b35e70800000000000000
+      internalID: 9102815314845476699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project (19)_2
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 631
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 210843a1a0de75250800000000000000
+      internalID: 5933471661729021970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project (19)_3
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 632
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa2252d8018b03910800000000000000
+      internalID: 1815153031057318570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project (19)_4
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 632
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50a52d38cd810b090800000000000000
+      internalID: -8020883600963380731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project (19)_5
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 600
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c0f4b9d27e971280800000000000000
+      internalID: -9072608708198600505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project (19)_6
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 600
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b569276a877695990800000000000000
+      internalID: -7396767145093065125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project (19)_7
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 600
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85dec1a87b7cdd300800000000000000
+      internalID: 278598343076932952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project (19)_8
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 600
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60bf55812a1018350800000000000000
+      internalID: 6017092372848311046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project (19)_9
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 560
+        width: 31
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 308755b2be20e7ed0800000000000000
+      internalID: -2414489141156415485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project (19)_10
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 560
+        width: 31
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ca059b2ce68f4a10800000000000000
+      internalID: 1895882317047859913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project (19)_11
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 568
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ada551c20c1fddb70800000000000000
+      internalID: 8925555844193802970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project (19)_12
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 568
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81ad03106009f6b90800000000000000
+      internalID: -7246414919951656424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project (19)_13
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 568
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d363277ac52fd6190800000000000000
+      internalID: -7967445685988346307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project (19)_14
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 568
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 267962c811ee148a0800000000000000
+      internalID: -6322510642718271646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project (19)_15
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 560
+        width: 31
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6df5ecba14f2437f0800000000000000
+      internalID: -633829688450588714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project (19)_16
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 560
+        width: 31
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4183510d6ce1f340800000000000000
+      internalID: 4895954222846280012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project (19)_17
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 560
+        width: 62
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f81d732f141b1ba0800000000000000
+      internalID: -6117273544880744208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project (19)_18
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 560
+        width: 31
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aba4094c273ec230800000000000000
+      internalID: 3660924210441923492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project (19)_19
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 560
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a55d1f76c120f980800000000000000
+      internalID: -8507262559682996829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project (19)_20
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 560
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fd1f7c48884047d0800000000000000
+      internalID: -2936267206809412110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project (19)_21
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 536
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dba3a103b9cec4450800000000000000
+      internalID: 6074490148687067837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project (19)_22
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 526
+        width: 31
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7c99e68160986030800000000000000
+      internalID: 3488196659948133502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project (19)_23
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 523
+        width: 62
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b439c8c67f3cd5e0800000000000000
+      internalID: -1883560764740389706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project (19)_24
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 536
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60420a8fbfa0cd720800000000000000
+      internalID: 2872182739679847430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project (19)_25
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 536
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcff76f8c67ef2440800000000000000
+      internalID: 4913400171932942287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project (19)_26
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 536
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7282cfac490793d0800000000000000
+      internalID: -3200078785252523396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project (19)_27
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 528
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4125ce28f302d290800000000000000
+      internalID: -7867221234591391414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project (19)_28
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 528
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f581a59c2057b38c0800000000000000
+      internalID: -4018489587669526433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project (19)_29
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 528
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8796652c76963cf30800000000000000
+      internalID: 4594631939211028856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project (19)_30
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 528
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed3fc854d505a46f0800000000000000
+      internalID: -699658430573644834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project (19)_31
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 485
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7779c0d6d070d4e10800000000000000
+      internalID: 2183409148590069623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project (19)_32
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 485
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27059bb98bb875b40800000000000000
+      internalID: 5428961500821278834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project (19)_33
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 485
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7b16fc3f7cd78b50800000000000000
+      internalID: 6595482618349099898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project (19)_34
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 485
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 032f9cf6322ab9140800000000000000
+      internalID: 4727550506938528304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project (19)_35
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 474
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eb13201a3e26b3b0800000000000000
+      internalID: -5497155468245394460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project (19)_36
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 474
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4914d9f382f7f9550800000000000000
+      internalID: 6169789825363558804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project (19)_37
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 474
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a2cf769be9d244f0800000000000000
+      internalID: -845874174126734682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project (19)_38
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 474
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de963236a328e88d0800000000000000
+      internalID: -2842191127541224979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project (19)_39
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 472
+        width: 63
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b2f26fcdbfe64ea0800000000000000
+      internalID: -5888755864233119050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project (19)_40
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 474
+        width: 62
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c99b0a7e3314cd40800000000000000
+      internalID: 5603624995412220352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project (19)_41
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 474
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbdf1fdd17d38acc0800000000000000
+      internalID: -3699639534620639812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project (19)_42
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 474
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d4f015d849bc7fa0800000000000000
+      internalID: -5801558497496599338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project (19)_43
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 474
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77488e566a18cb3c0800000000000000
+      internalID: -4342453389017709449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project (19)_44
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 474
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47a7c8b4cd25dd820800000000000000
+      internalID: 2944600837483952756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project (19)_45
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 474
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 875c9ff53138c9c00800000000000000
+      internalID: 908745344059819384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project (19)_46
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 474
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac306a66c58c306c0800000000000000
+      internalID: -4178275730084985910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project (19)_47
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 474
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 812e2666bef9e37d0800000000000000
+      internalID: -2936734073615097320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project (19)_48
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 474
+        width: 62
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 575b4f01844595e70800000000000000
+      internalID: 9104400790205019509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project (19)_49
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 474
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49a58a3c3c773eed0800000000000000
+      internalID: -2385931694891312492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project (19)_50
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 453
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd5b26b385f27e5c0800000000000000
+      internalID: -4186325272617634339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project (19)_51
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 453
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a20eae237143925e0800000000000000
+      internalID: -1933957290735771606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project (19)_52
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 453
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb76c9da8d5ba31b0800000000000000
+      internalID: -5676024438116816964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project (19)_53
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 453
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b9566736bdb444e0800000000000000
+      internalID: -1998263744334505552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project (19)_54
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 440
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e643f1c1ff2287e0800000000000000
+      internalID: -1764795388588243228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project (19)_55
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 440
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8b1e9ee1e892ee30800000000000000
+      internalID: 4531352271226542986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project (19)_56
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 441
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b116fd02fbe107f0800000000000000
+      internalID: -647977446515797584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project (19)_57
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 441
+        width: 63
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8adb03616b708ed30800000000000000
+      internalID: 4460823909548211624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project (19)_58
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 422
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce60421883da01780800000000000000
+      internalID: -8714274820765514004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project (19)_59
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 422
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d187147be0277050800000000000000
+      internalID: 5798139240899903958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project (19)_60
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 422
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6964e5fcc31222950800000000000000
+      internalID: 6422732563644565142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project (19)_61
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 422
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97fd967e2148a1a00800000000000000
+      internalID: 728039506500509561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project (19)_62
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 406
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cba6b6ba40eb9a00800000000000000
+      internalID: 764451173267057600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project (19)_63
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 406
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9109dd9b8b23872a0800000000000000
+      internalID: -6739581073386270695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project (19)_64
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 406
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c19d7e17f7e5a990800000000000000
+      internalID: -7375233766194835000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project (19)_65
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 406
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9405cd019b046890800000000000000
+      internalID: -7465829564644260706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project (19)_66
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 409
+        width: 63
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8e6aa323a77523f0800000000000000
+      internalID: -926202605793022321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project (19)_67
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 420
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79977aef6155b6230800000000000000
+      internalID: 3633091081654466967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project (19)_68
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 420
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1b57aa6a0f182900800000000000000
+      internalID: 659811475009264413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project (19)_69
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 420
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eec2e4410dc9f23c0800000000000000
+      internalID: -4382111494900405010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project (19)_70
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 420
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef00693c0201f4860800000000000000
+      internalID: 7516244036011032830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project (19)_71
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 420
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2354318cdfdf8380800000000000000
+      internalID: -8966702194917878994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project (19)_72
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 420
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71dffa78055f3bba0800000000000000
+      internalID: -6074241746170020585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project (19)_73
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 379
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fbb2452650652b60800000000000000
+      internalID: 7720683059305167860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project (19)_74
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 379
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bfd4870ed6bde3b0800000000000000
+      internalID: -5481524106714882119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project (19)_75
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 370
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa1053e3e5de15730800000000000000
+      internalID: 3986228134225969583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project (19)_76
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 370
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f970bcc4c53daeb0800000000000000
+      internalID: -4707046916168320519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project (19)_77
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 370
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7786b85708d39b520800000000000000
+      internalID: 2718271472031983735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project (19)_78
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 370
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0db03cab8ce6e9bc0800000000000000
+      internalID: -3774457629284037680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project (19)_79
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 376
+        width: 63
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5799f2bb297a782f0800000000000000
+      internalID: -970622946027529867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project (19)_80
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 387
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ee4aec4db387cf00800000000000000
+      internalID: 1137022279996821224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project (19)_81
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 387
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7438afc170b8adac0800000000000000
+      internalID: -3829595670457973945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project (19)_82
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 387
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ecdd459cabc89550800000000000000
+      internalID: 6167903631783615713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project (19)_83
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 387
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25e7d16b885df9880800000000000000
+      internalID: -8601921980106703278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project (19)_84
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 387
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d169a20315590bc0800000000000000
+      internalID: -3816425669082390062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project (19)_85
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 387
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec51c72905dc75c00800000000000000
+      internalID: 889405197367645646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project (19)_86
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 346
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8de66623ffb181940800000000000000
+      internalID: 5266990547085979352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project (19)_87
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 346
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d167975edc74a7c0800000000000000
+      internalID: -4060983669587222061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project (19)_88
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 338
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90742531a49af2000800000000000000
+      internalID: 13415459522234121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project (19)_89
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 337
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d897f887ed9ea7a60800000000000000
+      internalID: 7672702056893741453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project (19)_90
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 344
+        width: 62
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00371d1b1283341a0800000000000000
+      internalID: -6826550892795170048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project (19)_91
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 348
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89376a944912d58d0800000000000000
+      internalID: -2856089667908504680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project (19)_92
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 348
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7f095009355b4f80800000000000000
+      internalID: -8121303799725224066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project (19)_93
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 308
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59bb6eaef9f8b8f00800000000000000
+      internalID: 1120146849335262101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project (19)_94
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 308
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71f9a040dcab8a5e0800000000000000
+      internalID: -1898061853237797097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project (19)_95
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 282
+        width: 63
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fad80ebfbfbaaff0800000000000000
+      internalID: -23996017749206286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project (19)_96
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 295
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30e9e0d903a0993e0800000000000000
+      internalID: -2046593351753490941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project (19)_97
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 312
+        width: 62
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e133e51f8dd33680800000000000000
+      internalID: -8776427642197691929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project (19)_98
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 315
+        width: 62
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c82a8a23a39b6a90800000000000000
+      internalID: -7319594440357959486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project (19)_99
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 276
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 178d5f24443035220800000000000000
+      internalID: 2473324212072601713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project (19)_100
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 276
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b830603ebea0cc420800000000000000
+      internalID: 2651506288856793995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project (19)_101
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 275
+        width: 30
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 770717c7514ee7770800000000000000
+      internalID: 8610570318512222327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project (19)_102
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 280
+        width: 62
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 874599ef61bccfc70800000000000000
+      internalID: 9006296654455329912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project (19)_103
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 249
+        width: 62
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c265bc69150defb0800000000000000
+      internalID: -4617028436228742462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project (19)_104
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 173
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ded1308b2ede3a30800000000000000
+      internalID: 4197036181171592918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project (19)_105
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 173
+        width: 63
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3f825d77fc543d80800000000000000
+      internalID: -8271884397543518402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project (19)_106
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 173
+        width: 31
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fe4e20b2e1f48980800000000000000
+      internalID: -8537433037666889998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project (19)_107
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 173
+        width: 31
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05c688de02d319700800000000000000
+      internalID: 545284241521929296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project (19)_108
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 173
+        width: 31
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a715404e98429450800000000000000
+      internalID: 6094013090306004898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project (19)_109
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 141
+        width: 31
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80898382dd5a7b970800000000000000
+      internalID: 8770661168608483336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project (19)_110
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 141
+        width: 62
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe3bce4c05e90b1c0800000000000000
+      internalID: -4489914758749965329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project (19)_111
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 121
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f335aa285a3094ae0800000000000000
+      internalID: -1564715386137849025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project (19)_112
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 141
+        width: 62
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0af49d47cd2e9fa0800000000000000
+      internalID: -5792141736728528374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project (19)_113
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 141
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1364abb802475f050800000000000000
+      internalID: 5833696575460361777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project (19)_114
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 141
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d24c8fb0806b83d60800000000000000
+      internalID: 7870240494506787885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project (19)_115
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 141
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61eabf16aebe09910800000000000000
+      internalID: 1842231639493291542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project (19)_116
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 141
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b254f0062740e6770800000000000000
+      internalID: 8605820827235992875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project (19)_117
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 141
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0f047197fc272150800000000000000
+      internalID: 5847692082972725002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project (19)_118
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 141
+        width: 111
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89fd1a45fdbf04410800000000000000
+      internalID: 1459443215884214168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project (19)_119
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 109
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86f0d4b40d9520460800000000000000
+      internalID: 7206421104897625960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project (19)_120
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 109
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc42d216c52377e70800000000000000
+      internalID: 9112807743356216527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project (19)_121
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 109
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49a7b59952941c610800000000000000
+      internalID: 1639672165175098004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project (19)_122
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 109
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fabafd05825e37080800000000000000
+      internalID: -9190750453214762065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Project (19)_123
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 109
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb3d15676fc7bb620800000000000000
+      internalID: 2790961792075027387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
